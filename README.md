@@ -107,7 +107,7 @@ python gui.py
 
 ## 📄 Report
 
-📘 **Password_Analyzer_Project_Report.pdf**  
+📘 **Project Report 🔐 Password Strength Analyzer with Custom Wordlist Generator**  
 Includes Introduction, Abstract, Tools Used, Steps, and Conclusion.
 
 ---
